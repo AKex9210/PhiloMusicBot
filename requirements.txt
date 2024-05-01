@@ -24,3 +24,5 @@ yt-dlp
 youtube-search
 youtube-search-python
 telethon
+flask
+flask_restful
